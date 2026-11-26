@@ -69,6 +69,8 @@ each level reference the exercises in
 
 **Practice:** Rate limiter, in-memory cache with TTL, thread pool, notification system, elevator system, ride-sharing matcher, library or booking system.
 
+**Worked case study:** [Autonomous agent harness](case-studies/autonomous-agent-harness.md): Strategy, Command, Observer and Composite patterns, concurrency and resilience patterns applied to a real Rust codebase ([rustAgent](https://github.com/davialos/rustAgent)).
+
 ---
 
 ## How to Approach an LLD Problem
